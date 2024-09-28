@@ -9,5 +9,6 @@ The Problem Statements were :
 3) How Happy are they with their current positions
 4) How Happy are they with their work/ife balance
 5) What is the average age of the Survey Taker
-6) Number of Survery takers 
+6) Number of Survery takers
+   
 Note that the salary is in Thousaunds (USD)
